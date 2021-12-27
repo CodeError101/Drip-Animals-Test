@@ -1,0 +1,11 @@
+body,.wrap{
+    background:url(HALF1.jpg) no-repeat;
+    margin: 0;
+    padding: 0;
+   height: 1000vh;
+    width: 100%;
+    overflow-x: hidden;
+}
+.wrap{position:relative};
+
+
